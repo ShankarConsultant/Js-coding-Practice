@@ -11,7 +11,7 @@
 // function findSecondLargestElem(arr) {
 //   let first = -1,
 //     second = -1;
-
+//
 //   for (let i = 0; i <= arr.length - 1; i++) {
 //     console.log(arr[i]);
 //     if (arr[i] > first) {
